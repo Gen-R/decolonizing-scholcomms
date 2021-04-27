@@ -341,15 +341,13 @@ Babini, D. (2019) ‘La comunicación científica en América Latina es abierta,
 colaborativa y no comercial. Desafíos para las revistas’ [‘Scientific
 Communication in Latin America is Open, Collaborative and Non-commercial.
 Challenges for Journals’], *Palabra Clave (La Plata)* 8(2): e065.
-https://doi.org/10.24215/18539912e065https://[www.palabraclave.fahce.unlp.edu.ar/article/view/P](http://www.palabraclave.fahce.unlp.edu.ar/article/view/P)
-Ce065
+https://doi.org/10.24215/18539912e065
 
 Banzato, G. and C. Rozemblum (2019) ‘Modelo sustentable de gestión editorial en
 Acceso Abierto en instituciones académicas. Principios y procedimientos’
 [‘Sustainable Model for Managing Open Access Journals in Academic Institutions.
 Principles and Procedures’], *Palabra Clave (La Plata)* 8(2): e069.
-https://doi.org/10.24215/18539912e069https://[www.palabraclave.fahce.unlp.edu.ar/article/view/P](http://www.palabraclave.fahce.unlp.edu.ar/article/view/P)
-Ce069
+https://doi.org/10.24215/18539912e069
 
 Bartoli, A. and E. Medvet (2013) ‘Citation Counts and Evaluation of Researchers
 in the Internet Age’. <https://arxiv.org/pdf/1308.1946.pdf>
